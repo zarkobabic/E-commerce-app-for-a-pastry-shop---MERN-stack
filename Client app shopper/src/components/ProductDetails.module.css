@@ -1,0 +1,85 @@
+.centeredText {
+    text-align: center;
+}
+
+.detailsContainer{
+    height: 50vh;
+    width: 100%;
+    gap: 5%;
+}
+
+
+.detailsLeft{
+    height: 100%;
+    width: 25%;
+    background-color: #FFEBEB;
+    border-radius: 20px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.detailsLeft > img{
+    height: 85%;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.detailsLeft > div {
+    height: 15%;
+    width: 100%;
+    justify-content: center;
+}
+
+.detailsRight{
+    height: 100%;
+    width: 70%;
+    border-radius: 20px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.detailsDescription{
+    background-color: #FFEBEB;
+    width: 65%;
+    border-radius: 20px 0 0 20px;
+    padding: 2% 4%;
+}
+
+.detailsComposition{
+    background-color: #E1515A;
+    width: 35%;
+    border-radius: 0 20px 20px 0;
+    padding: 2% 4%;
+    justify-content: space-between;
+}
+
+.detailsContainer hr{
+    margin: 0;
+    width: 50px;
+    border: rgba(0, 0, 0, 0.75) solid 2px;
+}
+
+.detailsComposition  h3, .detailsDescription  h3{
+    padding: 5px 0;
+}
+
+.detailsComposition  p, .detailsDescription  p {
+    padding: 10px 0;
+}
+
+.whiteColor{
+    color: white;
+}
+
+.redColor{
+    color: #E1515A;
+    font-weight: 800;
+}
+
+.detailsComposition ul {
+    padding-left: 15px;
+}
+
+.detailsCompositionRightAligned {
+    color: white;
+    align-items: flex-end;
+    padding: 5% 0;
+}

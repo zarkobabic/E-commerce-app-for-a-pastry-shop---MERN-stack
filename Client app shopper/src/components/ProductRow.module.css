@@ -1,0 +1,39 @@
+.productMainContainer{
+    width: 100%;
+    margin: 5px;
+    justify-content: space-around;
+}
+
+.productNameAndQuantityContainer{
+    width: 30%;
+    color: white;
+    padding: 0 5%;
+}
+
+.productActionsContainer{
+    width: 60%;
+    gap: 2%;
+}
+
+.productActionsContainer button{
+    padding: 10px 30px;
+}
+
+.productActionsContainer input{
+    box-shadow: none;
+}
+
+.updateQuantityContainer{
+    border: 3px solid rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    padding: 1%;
+}
+
+.deleteButtonContainer{
+    padding: 1%;
+    justify-content: center;
+}
+
+.productRowPrice{
+    width: 10%;
+}

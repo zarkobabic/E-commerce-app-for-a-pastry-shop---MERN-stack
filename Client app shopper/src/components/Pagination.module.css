@@ -1,0 +1,26 @@
+.paginationContainer > button{
+    margin: 5% 1% 0 1%;
+    border-radius: 50%;
+    background-color: var(--grey, rgba(0, 0, 0, 0.68));
+    color: white;
+    border: none;
+    width: 75px;
+    height: 75px;
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.paginationContainer > svg {
+    margin: 5% 1% 0 1%;
+    cursor: pointer;
+}
+
+.active{
+    background-color: #F7CED1 !important;
+    color: #E1515A !important;
+}

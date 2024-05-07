@@ -1,0 +1,17 @@
+.orderUserData{
+    font-weight: 400;
+}
+
+.orderUserData h3{
+    font-weight: 800;
+}
+
+.userDataAndActionsContainer{
+    justify-content: space-between;
+}
+
+.actionButtons{
+    gap: 10px;
+    align-items: flex-end;
+    cursor: pointer;
+}

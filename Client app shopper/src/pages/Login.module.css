@@ -1,0 +1,17 @@
+.loginHeader{
+    padding: 2% 0;
+    margin-bottom: 8%;
+}
+
+.loginHeader > img{
+    width: 165px;
+    margin-right: auto;
+}
+
+.loginHeader > div > h1{
+    text-align: right;
+}
+
+.loginFormContainer{
+    width: 50%;
+}

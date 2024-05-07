@@ -1,0 +1,167 @@
+.centeredText {
+    text-align: center;
+}
+
+.detailsContainer{
+    height: 50vh;
+    width: 100%;
+    gap: 5%;
+}
+
+
+.detailsLeft{
+    height: 100%;
+    width: 25%;
+    background-color: #FFEBEB;
+    border-radius: 20px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.detailsLeft > img{
+    height: 85%;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.detailsLeft > div {
+    height: 15%;
+    width: 100%;
+    justify-content: center;
+}
+
+.detailsRight{
+    height: 100%;
+    width: 70%;
+    border-radius: 20px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.detailsDescription{
+    background-color: #FFEBEB;
+    width: 65%;
+    border-radius: 20px 0 0 20px;
+    padding: 2% 4%;
+}
+
+.detailsComposition{
+    background-color: #E1515A;
+    width: 35%;
+    border-radius: 0 20px 20px 0;
+    padding: 2% 4%;
+    justify-content: space-between;
+}
+
+.detailsContainer hr{
+    margin: 0;
+    width: 50px;
+    border: rgba(0, 0, 0, 0.75) solid 2px;
+}
+
+.detailsComposition  h3, .detailsDescription  h3{
+    padding: 5px 0;
+}
+
+.detailsComposition  p, .detailsDescription  p {
+    padding: 10px 0;
+}
+
+.whiteColor{
+    color: white;
+}
+
+.redColor{
+    color: #E1515A;
+    font-weight: 800;
+}
+
+.detailsComposition ul {
+    padding-left: 15px;
+}
+
+.detailsCompositionRightAligned {
+    color: white;
+    align-items: flex-end;
+    padding: 5% 0;
+}
+
+.detailsForm > input{
+    border-radius: 20px;
+    background: #FDE5E6;
+    border: none;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-weight: 200;
+    padding: 15px 0;
+    padding-left: 2%;
+    width: 23%;
+}
+
+.detailsForm {
+    gap: 5%;
+}
+
+.notificationSuccess{
+    background-color: rgba(163, 236, 166, 0.75);
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.notificationFailed{
+    background-color: #ce777d;
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.commentFormContainer{
+    height: 65vh;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.commentFormTitle{
+    height: 20%;
+    background-color: rgba(255, 132, 139, 0.39);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px 20px 0 0;
+}
+
+.commentFormBody{
+    height: 80%;
+    width: 100%;
+}
+
+.commentFormBody > form{
+    height: 100%;
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+}
+
+.commentTextContainer{
+    height: 75%;
+    width: 100%;
+}
+
+.commentTextContainer > textarea{
+    height: 100%;
+    width: 96%;
+    background: #FDE5E6;
+    border: none;
+    padding: 2%;
+}
+
+.commentButtonContainer{
+    height: 25%;
+    background-color: rgba(255, 132, 139, 0.39);
+    width: 100%;
+    justify-content: center;
+    border-radius: 0 0 20px 20px;
+}
+

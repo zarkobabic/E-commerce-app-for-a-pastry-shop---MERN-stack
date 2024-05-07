@@ -1,0 +1,16 @@
+.loginFormContainer > input{
+    width: 80%;
+    border-radius: 20px;
+    background: #FDE5E6;
+    border: none;
+    padding: 15px;
+    margin: 3% 0%;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-weight: 200;
+    text-align: left;
+}
+
+.loginFormContainer > button {
+    width: 40%;
+    margin: 3% 0%;
+}

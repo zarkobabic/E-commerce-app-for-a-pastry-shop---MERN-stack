@@ -1,0 +1,76 @@
+.dataInput{
+    justify-content: center;
+    gap: 10%;
+    height: 100%;
+}
+
+.dataInput > div{
+    width: 30%;
+}
+
+.dataInput h4 {
+    margin: 5% 0;
+    color: #E1515A;
+}
+
+.dataInput input {
+    border-radius: 20px;
+    background: #FDE5E6;
+    border: none;
+    font-weight: 200;
+    padding: 12px 5%;
+    width: 90%;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.dataInput select {
+    border-radius: 20px;
+    background: #FDE5E6;
+    border: none;
+    font-weight: 200;
+    padding: 12px 5%;
+    width: 100%;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.dataInput textarea{
+    flex-grow: 1;
+    background: #FDE5E6;
+    border: none;
+    padding: 5%;
+    border-radius: 20px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.colorWhite{
+    color: white !important;
+}
+
+.defaultImageContainer img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.actionButton{
+    width: 35%;
+    box-shadow: 3px 10px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.saveChanges{
+    background-color: #A3ECA6;
+    box-shadow: 3px 10px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.upRight img{
+    box-shadow: 15px 0 8.4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.downLeft img{
+    box-shadow: 0px 15px 8.4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.downRight img{
+    box-shadow: 15px 15px 8.4px 0 rgba(0, 0, 0, 0.25);
+}

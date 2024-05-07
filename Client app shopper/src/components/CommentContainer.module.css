@@ -1,0 +1,25 @@
+.commentContainer{
+    width: 60%;
+    margin-bottom: 4%;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.commentContainerLeft{
+    background-color: #FFEBEB;
+    width: 88%;
+    height: 160px;
+    border-radius: 20px 0 0 20px;
+    padding: 4% 6%;
+}
+
+.commenter{
+    font-weight: 800;
+    color: #E1515A;
+}
+
+.commentContainerRight{
+    background-color: #E1515A;
+    width: 12%;
+    border-radius: 0 20px 20px 0;
+}

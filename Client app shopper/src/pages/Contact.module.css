@@ -1,0 +1,49 @@
+.contactDescription{
+    width: 55%;
+}
+
+.contactPhoto{
+    width: 45%;
+}
+
+.contactPhoto > img {
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.contactName{
+    letter-spacing: 10px;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.contactDescription > hr {
+    margin-top: 10px;
+    border: 2.5px solid #E1515A;
+    border-radius: 200px;
+    width: 46%;
+}
+
+.contactDescription > h3{
+    font-weight: 800;
+}
+
+.contactDescription > p{
+    width: 85%;
+}
+
+.contactInfoContainer{
+    flex-grow: 1;
+    justify-content: flex-end;
+    color: white;
+}
+
+.socialContainer{
+    justify-content: flex-end;
+}
+
+.socialContainer > div{
+    width: 45%;
+    justify-content: center;
+    gap: 10px;
+}

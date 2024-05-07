@@ -1,0 +1,31 @@
+.listNoStyle{
+    list-style-type: none;
+}
+
+.headerMenu{
+    margin-top: 2%;
+}
+
+.headerMenu > a{
+    margin-right: auto;
+}
+
+.headerMenu img {
+    width: 165px;
+}
+
+
+.headerMenu li {
+    padding: 0 15px;
+    font-weight: 500;
+}
+
+.headerMenu ul > a{
+    text-decoration: none;
+    color: var(--grey2, rgba(0, 0, 0, 0.75));
+}
+
+.superscript {
+    vertical-align: top;
+    margin: 0 3px;
+}

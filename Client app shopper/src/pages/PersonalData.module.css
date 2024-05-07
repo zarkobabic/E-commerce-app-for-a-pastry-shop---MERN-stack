@@ -1,0 +1,65 @@
+.redText{
+    color: #E1515A;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.personalDataContainer div{
+    justify-content: space-around;
+}
+
+.rowContainer{
+    width: 100%;
+}
+
+.personalDataContainer input, .dataLabel{
+    border-radius: 20px;
+    background: #FDE5E6;
+    border: none;
+    font-weight: 200;
+    padding: 12px 0;
+    /* padding-left: 5%; */
+    width: 100%;
+    box-shadow: 15px 20px 8.4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.dataLabel{
+    text-align: center;
+    padding: 12px 0%;
+}
+
+.inputContainer{
+    width: 30%;
+}
+
+.inputContainer > h4{
+    margin-bottom: 10px;
+    color: #E1515A;
+}
+
+.actionButton{
+    width: 35%;
+    margin-top: 15%;
+    box-shadow: 3px 10px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.saveChanges{
+    background-color: #A3ECA6;
+    box-shadow: 3px 10px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.updateNotification{
+    border-radius: 20px;
+    padding: 0.5rem;
+    color: white;
+    width: 60%;
+    text-align: center;
+}
+
+.updateSuccess{
+    background-color: rgba(163, 236, 166, 0.75);
+}
+
+.updateFailed{
+    background-color: #ce777d;
+}

@@ -1,0 +1,27 @@
+.notificationMainContainer{
+    width: 40%;
+    background-color: #FFEBEB;
+    border-radius: 20px;
+    padding: 1% 2%;
+    box-shadow: 15px 20px 8.4px 0 rgba(0, 0, 0, 0.25);
+    margin: 2% 0%;
+}
+
+.notificationMainContainer > h3{
+    text-align: center;
+    font-weight: 800;
+}
+
+.notificationMainContainer > hr{
+    width: 40%;
+    border-radius: 20px;
+    align-self: center;
+}
+
+.notificationMainContainer > p {
+    font-weight: 200;
+}
+
+.wrapper{
+    justify-content: space-between;
+}
