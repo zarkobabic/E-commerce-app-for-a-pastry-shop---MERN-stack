@@ -1,4 +1,5 @@
 E commerce app for a pastry shop built with MERN stack
+[redux is used for cart items management across single page]
 
 Client:
 ![screencapture-localhost-3000-main-2024-05-07-13_47_00](https://github.com/zarkobabic/E-commerce-app-for-a-pastry-shop---MERN-stack/assets/92127059/fbc68e98-4d89-41f8-beca-6c71debdb478)
