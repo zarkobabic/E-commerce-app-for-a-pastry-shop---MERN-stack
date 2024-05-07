@@ -1,3 +1,5 @@
+Project still in progress...
+
 E commerce app for a pastry shop built with MERN stack
 [redux is used for cart items management across single page]
 
