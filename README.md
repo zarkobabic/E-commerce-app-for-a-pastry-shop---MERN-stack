@@ -1,7 +1,49 @@
-Project still in progress...
+# E-commerce app for pastry shop - MERN Stack
 
-E commerce app for a pastry shop built with MERN stack
-[redux is used for cart items management across single page]
+**Project Overview:**
+This project is an e-commerce platform built using the MERN stack, which consists of MongoDB, Express.js, React.js, and Node.js. The platform integrates Redux.js to efficiently manage cart items across a single-page application. It also employs a REST API to facilitate seamless communication between the frontend and backend. The platform supports two distinct user roles: shoppers and workers.
+
+**Technology Stack:**
+- **MongoDB:** Non-relational database to store data.
+- **Express.js:** Backend web application framework to handle API routes and server-side logic.
+- **React.js:** Frontend library for building the user interface.
+- **Node.js:** JavaScript runtime environment for executing backend code.
+- **Redux.js:** Library for managing application state, particularly for cart item management.
+
+**User Roles:**
+
+1. **Shopper:**
+   - View items available for sale.
+   - Manage profile information.
+   - Shop items.
+   - View and manage cart information.
+   - Send orders from the cart.
+   - Leave comments on items.
+   - Receive notifications when a worker accepts or rejects an order.
+
+2. **Worker:**
+   - Manage requests for orders.
+   - Add new products to the platform.
+
+**Functionalities:**
+
+- **Shopper:**
+  - **Item Browsing:** Shoppers can browse through the items available for sale, with detailed views of each item.
+  - **Profile Management:** Shoppers can view and update their profile information.
+  - **Cart Management:** Shoppers can add items to their cart, view the cart, and make changes as needed.
+  - **Order Processing:** Shoppers can send orders directly from their cart.
+  - **Commenting:** Shoppers can leave comments on items, providing feedback or reviews.
+  - **Notifications:** Shoppers receive notifications when their orders are processed by workers.
+
+- **Worker:**
+  - **Order Management:** Workers can view and manage incoming order requests, accepting or rejecting them as appropriate.
+  - **Product Management:** Workers can add new products to the platform, ensuring the inventory is up-to-date.
+
+**REST API:**
+The platform uses a RESTful API to enable communication between the frontend and backend, handling operations such as retrieving items, managing user profiles, processing orders, and managing comments and notifications.
+
+**Conclusion:**
+This MERN stack project provides a robust and scalable e-commerce platform, catering to the needs of both shoppers and workers. By leveraging modern technologies and a well-structured API, it ensures a seamless shopping experience and efficient order management.
 
 Client:
 ![screencapture-localhost-3000-main-2024-05-07-13_47_00](https://github.com/zarkobabic/E-commerce-app-for-a-pastry-shop---MERN-stack/assets/92127059/fbc68e98-4d89-41f8-beca-6c71debdb478)
