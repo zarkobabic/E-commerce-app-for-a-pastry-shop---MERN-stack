@@ -3,14 +3,14 @@
 **Project Overview:**
 This project is an e-commerce platform built using the MERN stack, which consists of MongoDB, Express.js, React.js, and Node.js. The platform integrates Redux.js to efficiently manage cart items across a single-page application. It also employs a REST API to facilitate seamless communication between the frontend and backend. The platform supports two distinct user roles: shoppers and workers.
 
-**Technology Stack:**
+### **Technology Stack:**
 - **MongoDB:** Non-relational database to store data.
 - **Express.js:** Backend web application framework to handle API routes and server-side logic.
 - **React.js:** Frontend library for building the user interface.
 - **Node.js:** JavaScript runtime environment for executing backend code.
 - **Redux.js:** Library for managing application state, particularly for cart item management.
 
-**User Roles:**
+### **User Roles:**
 
 1. **Shopper:**
    - View items available for sale.
@@ -25,7 +25,7 @@ This project is an e-commerce platform built using the MERN stack, which consist
    - Manage requests for orders.
    - Add new products to the platform.
 
-**Functionalities:**
+### **Functionalities:**
 
 - **Shopper:**
   - **Item Browsing:** Shoppers can browse through the items available for sale, with detailed views of each item.
@@ -39,10 +39,10 @@ This project is an e-commerce platform built using the MERN stack, which consist
   - **Order Management:** Workers can view and manage incoming order requests, accepting or rejecting them as appropriate.
   - **Product Management:** Workers can add new products to the platform, ensuring the inventory is up-to-date.
 
-**REST API:**
+### **REST API:**
 The platform uses a RESTful API to enable communication between the frontend and backend, handling operations such as retrieving items, managing user profiles, processing orders, and managing comments and notifications.
 
-**Conclusion:**
+### **Conclusion:**
 This MERN stack project provides a robust and scalable e-commerce platform, catering to the needs of both shoppers and workers. By leveraging modern technologies and a well-structured API, it ensures a seamless shopping experience and efficient order management.
 
 ### Final product images
