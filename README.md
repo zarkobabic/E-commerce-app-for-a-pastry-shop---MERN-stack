@@ -45,7 +45,7 @@ The platform uses a RESTful API to enable communication between the frontend and
 **Conclusion:**
 This MERN stack project provides a robust and scalable e-commerce platform, catering to the needs of both shoppers and workers. By leveraging modern technologies and a well-structured API, it ensures a seamless shopping experience and efficient order management.
 
-Client:
+Shopper [Client]:
 ![screencapture-localhost-3000-main-2024-05-07-13_47_00](https://github.com/zarkobabic/E-commerce-app-for-a-pastry-shop---MERN-stack/assets/92127059/fbc68e98-4d89-41f8-beca-6c71debdb478)
 ![screencapture-localhost-3000-all-cakes-2024-05-07-13_23_08](https://github.com/zarkobabic/E-commerce-app-for-a-pastry-shop---MERN-stack/assets/92127059/692ff4f9-e04f-4527-a912-c40636ef1c57)
 ![screencapture-localhost-3000-details-cookie-6-2024-05-07-13_36_18](https://github.com/zarkobabic/E-commerce-app-for-a-pastry-shop---MERN-stack/assets/92127059/0c2d5c9f-aca0-4e46-8ce6-8403c246842f)
