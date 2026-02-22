@@ -1,5 +1,6 @@
 # E-commerce app for pastry shop - MERN Stack
 
+
 **Project Overview:**
 This project is an e-commerce platform built using the MERN stack, which consists of MongoDB, Express.js, React.js, and Node.js. The platform integrates Redux.js to efficiently manage cart items across a single-page application. It also employs a REST API to facilitate seamless communication between the frontend and backend. The platform supports two distinct user roles: shoppers and workers.
 
